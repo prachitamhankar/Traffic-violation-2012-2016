@@ -7,7 +7,7 @@ Traffic Violations in the USA have increased in the past few years. A thorough s
 
 ### Steps in the execution of this project
 
-1) Data Extraction: The data is obtained from the following data source : https://www.kaggle.com/felix4guti/traffic-violations-in-usa
+1) Data Extraction: The data is obtained from the following data source: [Kaggle - Traffic violations] (https://www.kaggle.com/felix4guti/traffic-violations-in-usa)
 
 2) Data Munging: The data was cleaned using python 
 
@@ -57,4 +57,6 @@ Maximum number of violations reported in a state is not same in the state in whi
 
 ## Acknowledgments
 
-* I have used the dataset provided by [US Bureau of Transportation](https://www.bts.gov/topics/airlines-and-airports/origin-and-destination-survey-data)
+* [US Bureau of Transportation](https://www.bts.gov/topics/airlines-and-airports/origin-and-destination-survey-data)
+
+* [Kaggle - Traffic violations](https://www.kaggle.com/felix4guti/traffic-violations-in-usa)
