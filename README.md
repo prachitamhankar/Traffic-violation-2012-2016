@@ -18,22 +18,17 @@ Traffic Violations in the USA have increased in the past few years. A thorough s
 ### Descriptive Analysis:
 
 a) Visualization of State Wise analysis of data to represent number of traffic violation records based on specific time of the day in a particular year 
-
 b) State Wise Analysis depicting the number of violations based on gender and ethnicity.
 
 ![image_descript](/images/1.png)
 
 #### Tableau Skills:
 1) Select a state on the map. The given state showcases the violations based on the gender and race. 
-
 2) **Created Filters:** When a state is selected, the Year and the respective number of records are displayed on the dashboard. 
-
 3) **Created Actions:** When we hover over a particular year we see the line graph changing as per the time of the day. 
-
 4) We get the information when we select a state, which year was the one where the number of violations occurred were the maximum and what was the time of the day when the violations were at the peak. 
 
 ### Predictive Analytics:
-
 Predicting the number of occurrences for each type of Violations in the year 2017 per quarter based on the data from 2012- 2016 in any selected state. 
 
 ![image_descript](/images/2.png)
