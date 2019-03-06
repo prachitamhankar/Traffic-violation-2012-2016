@@ -8,13 +8,9 @@ Traffic Violations in the USA have increased in the past few years. A thorough s
 ### Steps in the execution of this project
 
 1) Data Extraction: The data is obtained from the following data source: [Kaggle - Traffic violations](https://www.kaggle.com/felix4guti/traffic-violations-in-usa)
-
 2) Data Munging: The data was cleaned using python 
-
 3) Data blending in Tableau 
-
 4) Performing descriptive and predictive analysis on the data
-
 5) Finding interesting insights by thorough analysis
 
 ## Goals of the Project
