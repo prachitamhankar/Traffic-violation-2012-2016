@@ -40,6 +40,7 @@ Here Animation is displayed on the dashboard. Once we play it changes the result
 Based on the year the most popular violation is also seen on the dashboard.
 
 **Anomalous Behavior Insight:**
+
 Maximum number of violations reported in a state is not same in the state in which the driver license was issued. For example when a state of OR (Oregon) is selected where the driver license was issued, rather than the number of records being maximum in OR(63), they were found to be maximum in the state of MD (127)
 
 ![image_descript](/images/3.png)
